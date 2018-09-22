@@ -10,6 +10,9 @@
  * @return {ListNode}
  */
 
+/* I now realize the implementation is not that efficient. 
+ * But the runtime was faster than 77% of other submissions though
+ */
 
 function comparator(a,b) {
     return a.val - b.val
