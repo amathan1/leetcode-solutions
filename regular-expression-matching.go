@@ -3,6 +3,7 @@ package main
 import "fmt"
 import "strings"
 
+/* Broken implementation. Needs immediate fix */
 
 func isMatch(s string, p string) bool {
 	pair := combo {&s, &p}
